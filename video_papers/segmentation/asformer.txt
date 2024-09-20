@@ -1,0 +1,6 @@
+Action segmentation and refinement strategy, this is a multistage model based on MSTCN .
+
+motivation: Showing the power of transformer and attention model.
+
+problem: converts the ms-tcn with attention model . use encoder and decoders. 
+  
